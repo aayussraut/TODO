@@ -13,7 +13,7 @@ JS
 </li>
 
 </ol>
-<li>Frontend</li>
+<li>Backend</li>
 <ol>
 <li>
 Node.js
